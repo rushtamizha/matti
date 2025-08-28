@@ -21,9 +21,12 @@ import { Navigation } from 'swiper/modules';
   
   const logo= `https://img.agentadmin.cc/bigmumbai/other/h5setting_202308141709544lm1.png`
 
-  const link= `https://bigmumbai2.com/#/register?invitationCode=148235880383`
-  const telegram= `https://telegram.me/powerhouse700` // official prediction channel
-  const telegramPro= `https://telegram.me/powerhouse700/36143` //promotion channel signup button
+  const link= `https://www.bigmumbaiy.com/#/register?invitationCode=5213860021`
+
+  const telegram= `https://telegram.me/thinkbig96` // official prediction channel
+
+  const telegramPro= `https://telegram.me/thinkbig96/38804` //promotion channel signup button
+
 const Home = () => {
   const [ nav,Navopen] = useState(false)
   const navigate = useNavigate()
