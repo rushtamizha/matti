@@ -76,7 +76,7 @@ const Home = () => {
   <tbody>
     <tr>
       <td class="border p-3 border-gray-300 ...">Referral Code</td>
-      <td class="border p-3 border-gray-300 ...">148235880383</td>
+      <td class="border p-3 border-gray-300 ...">5213860021</td>
     </tr>
     <tr>
       <td class="border p-3 border-gray-300 ...">Features</td>
@@ -104,7 +104,7 @@ const Home = () => {
         </Swiper>
       </div>
       <div>
-    <h3 className="p-4 text-center">Big Mumbai Invite Code: 148235880383 Get ₹1000 Signup Bonus & Earn Money Online in 2025 
+    <h3 className="p-4 text-center">Big Mumbai Invite Code: 5213860021 Get ₹1000 Signup Bonus & Earn Money Online in 2025 
 </h3>
   </div>
   </div>
