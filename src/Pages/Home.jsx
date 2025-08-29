@@ -62,7 +62,7 @@ const Home = () => {
       </div>
       <img className="p-2 " src={banner} alt="" />
       <div className=" p-4 flex gap-6">
-        <button onClick={()=> window.open(telegramPro)} class=" py-4 text-white bg-gray-950 hover:text-black hover:bg-white w-full text-center border-2 border-dashed  rounded-xl transition-all duration-200 active:translate-y-1.5 shadow-2xs hover:-translate-y-1.5">🎁 Sign Up Bonus</button>
+        <button onClick={()=> window.open(telegramPro)} class=" py-4 text-white bg-gray-950 hover:text-black hover:bg-white w-full text-center border-2 border-dashed  rounded-xl transition-all duration-200 active:translate-y-1.5 shadow-2xs hover:-translate-y-1.5">🎁 Gift Code ₹500 </button>
       </div>
 
       <div className="p-4  bg-white table-auto">
